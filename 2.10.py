@@ -1,8 +1,8 @@
 import math
 print("Введите a")
-x=float(input())
+x=int(input())
 print("Введите b")
-y=float(input())
+y=int(input())
 a=(x+y)/2
 g=math.sqrt(x*y)
 print(a,g)
