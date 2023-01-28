@@ -1,0 +1,6 @@
+print("Введите R")
+R=float(input())
+print("Введите r")
+r=float(input())
+S=3.14*(R*R-r*r)
+print(S)
