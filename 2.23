@@ -1,0 +1,6 @@
+import math
+a = float(input())
+b = float(input())
+P = 2 * (a + b)
+d = math.sqrt(a * a + b * b)
+print (P,d)
