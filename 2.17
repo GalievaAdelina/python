@@ -1,0 +1,5 @@
+import sqrt
+a = float(input())
+b = float(input())
+c = float(input())
+print("P =", a + b + 2 * sqrt(sqrt(h) + sqrt(a - b) / 4))
