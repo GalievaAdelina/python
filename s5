@@ -1,0 +1,4 @@
+m = int(input ())
+l = int(input())
+k = m*0.10 + l*0.25
+print('%.2f' % k, "$")
