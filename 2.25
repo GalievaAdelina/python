@@ -1,0 +1,5 @@
+a = float(input())
+b = float(input())
+c = float(input())
+print("Объем = ", a * b * c)
+print("Площадь боковой поверхности = ", 2*(a*b + a*c +b*c))
