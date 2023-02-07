@@ -1,0 +1,4 @@
+V1 = int(input())
+V2 = int(input())
+S = int(input())
+print(S + (V1 - V2) * 0.5)
