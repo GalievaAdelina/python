@@ -1,0 +1,7 @@
+allon = 3.785
+mile = 1.6093
+mpg = float(input())
+km = mpg * mile / gallon 
+lpkm = km ** -1 
+lp100km = lpkm * 100 # Показатель, сколько авто потратит литров на 100км пробега
+print(lp100km)
