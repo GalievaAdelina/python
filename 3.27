@@ -1,0 +1,10 @@
+n = int(input())
+k = n // 100
+s = (n //10) % 10
+m = n % 10
+print(k, s, m)
+print(s, k, m)
+print(s, m, k)
+print(m, k, s)
+print(m, s, k)
+print(k, m, s)
