@@ -1,0 +1,4 @@
+n = int(input())
+m = n // 60
+h = m // 60
+print(m - h * 60)
