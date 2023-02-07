@@ -1,0 +1,4 @@
+import math
+r = float(input())
+print('Площадь круга = ', math.pi * r**2)
+print('Объем шара = ', 4/3 * math.pi * r **3)
